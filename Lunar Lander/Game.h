@@ -5,7 +5,8 @@
 
 using namespace std;
 
-#define ASSETS_FOLDER ".\\Assets\\"
+const string ASSETS_FOLDER = ".\\Assets\\";
+const string LOGIN_FILE = "login.dat";
 
 struct PlayerInfo
 {
@@ -19,6 +20,7 @@ public:
     ~Game();
 
     void Run();
+    void Exit();
     void Login(string user, string pass);
     void CreateUser(PlayerInfo info);
     void ResetPassword(string user);
@@ -28,6 +30,8 @@ private:
 
 private:
     World world;
-    bool running = false;
+    bool running;
+    ifstream inputFile;
+    ofstream outputStream;
 };
 

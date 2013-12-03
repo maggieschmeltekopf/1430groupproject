@@ -12,10 +12,16 @@ Game::~Game()
 
 void Game::Run()
 {
+    running = true;
     while (running)
     {
         Tick();
     }
+}
+
+void Game::Exit()
+{
+    running = false;
 }
 
 void Game::Tick()
