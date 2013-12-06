@@ -19,4 +19,5 @@ void World::Update(double deltaTime)
 {
     ground.Update(deltaTime);
     ship.Draw(deltaTime);
+    // update gravity
 }
