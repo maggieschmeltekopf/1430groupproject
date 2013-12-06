@@ -14,6 +14,9 @@ public:
     World();
     ~World();
 
+    void Draw(double deltaTime);
+    void Update(double deltaTime);
+
 private:
     Ship ship;
     Ground ground;

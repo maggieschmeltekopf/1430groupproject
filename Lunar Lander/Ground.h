@@ -5,6 +5,7 @@ public:
     Ground();
     ~Ground();
 
-    void Draw();
+    void Draw(double deltaTime);
+    void Update(double deltaTime);
 };
 

@@ -5,7 +5,8 @@ public:
     Ship();
     ~Ship();
 
-    void Draw();
+    void Draw(double deltaTime);
+    void Update(double deltaTime);
 
 private:
     double verticalVelocity;
