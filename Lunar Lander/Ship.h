@@ -1,4 +1,6 @@
 #pragma once
+#include "Plotter.h"
+
 class Ship
 {
 public:
@@ -9,7 +11,7 @@ public:
     void Update(double deltaTime);
 
 private:
+    ink rocket[5][5];
     double verticalVelocity;
     double horizontalVelocity;
 };
-
