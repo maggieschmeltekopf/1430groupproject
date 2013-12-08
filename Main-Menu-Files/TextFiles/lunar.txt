@@ -1,0 +1,56 @@
+                       
+   @@WWWWG00000000000008888000@@*                      
+   @@WWWW00000000000000088888800@@			*                     
+  @@@WW00000000000000000088888800@@			*                    
+  @@0W000000000000000000008888888008@@			*                  
+  @@CG00000000000000000000088888888008@@			*                 
+  @@C00000000000000000000000888888888008@@		*                
+  @@00000000000000000000000000000000000008@@		*               
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@		*               
+  @@wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwW@@		*              
+  @@0000000000000000000000000000000000000000000@@		*             
+  @@wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwCCC@@		*            
+   @@00000000000000000000000000000000000000000CCCCC@@		*            
+   @@wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwCCCCC@@		*           
+   @@wwwwwwwwwwwwwwwwwwwwwWwwwwWwwwwwwwwwwwwwwwwCCCCC@@		*           
+    @@wwwwwwwwwwwwwwwwWwwww@@@@@wwwwwwwwwwwwwwwwCCCCwC@@		*          
+    @@wwwwwwwwwwwwwwwwwO@@0GGGGGG0@@GwwwwwwwwwwwwCCCCwC@@		*          
+    @@Wwwwwwwwwwwwwwww8@GGGGO8@@8OGGGG@8wwwwwwwwwCCCCCwC@@		*          
+    @@wwwwwwwwwwwwwwww@OGG0@8bbb  8@0GG0@CwwwwwwwCCCCCwC@@		*         
+    @@wwwwwwwwwwwwww@OGG@8bbbb      8@GG8@CwwwwwwCCCCCwC@@		*         
+    @@wwwwwwwwwwwwwC@GG8@bbb        b@8GG@CwwwwwwCCCCCwC@@		*         
+    @@wwwwwwwwwwwwwG@GG@@b        bbb@8GG@CwwwwwwCCCCCwC@@		*         
+    @@wwwwwwwwwwwwww@GGG@       bbbbG@GGG@CwwwwwwCCCCCwC@@		*         
+    @@wwwwwwwwwwwwwG@GGG@8   bbbbb@@GGG@GCwwwwwwwCCCCwC@@	        *         
+    @@wwwwwwwwwwwwwwwC@0GGG8@@@@@@8GGG0@CCwwwwwwwCCCCCCC8@		*         
+    @@wwwwwwwwwwwwwwwwwG@@GGGGGGGGGG@@GCCwwwwwwwwCCCCCCC8@		*         
+    @@wwwwwwwwwwwwwwwwwwwwC8@@@@@@8CCCwwwwwwwwwwwCCCCCCC@@		*         
+    @@wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwCCCCCCCC@@		*         
+    @@wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwCCCCCCCC@8	        *         
+    @@wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwCCCCCCC@@@		*         
+    @@wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwCCCCCCCC@@		*          
+    @@wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwCCCCCCCC@@		*          
+    @@wwwwwwwwwwwwwwwwwwwwG@@@@GCCCwwwwwwwwCCCCCCCCCCC@@         *
+        @@@@@@@@wwwwwwwwwwwwwwwwwwwwG@08@GCCCCCCWWWWWCCCCCCCCC@888@@@      *
+       @@000000@@wwwwwwwwwwwwwwwwwwwG@08@GCCCCCCCCGGCCCCCCCCC@@888888@@    *
+      @@0000000@@wwwwwwwwwwwwwwwwwwwG@08@GCCWCCCCCCCCCCCCCCCC@88888008@@  * 
+     @@000000000@@wwwwwwwwwwwwwwwwwwG@08@GCCWCCCCCCCCCCCCCCC@@888800008@@  *
+    @@00000008888@wwwwwwwwwwwwwwwwwwG@08@GCCWCCCCCCCCCCCCCCG@88880000008@@ *
+    @800000888@@@@@wwwwwwwwwwwwwwwwwG@08@GCCCWWCCCCCCCCCCCC@@@@@80000008@@ *
+   0@0000088@@    @@wwwwwwwwwwwwwwwwG@08@CGCCCWWCCCCCCCCCC@@   @@@0000008@O*
+   @@000008@@     O@CwwwwwwwwwwwwwwwG@08@CGGGCCCCCCCCCCCCC@@     @@000008@@*
+   @@00008@@       @@@@@@@@@@@@@@@@@@@08@@@@@@@@@@@@@@@@@@@       @@00008@@*
+   @@00008@0        @@CCCCCGGGGGGGGGO@08@GGGGGGGGGGGGGGG@@        0@00000@@*
+   @@0008@@          @@CCCCGGGGGGGGGO@08@GGGGGGGGGGGGGG@@          @@0000@@*
+   @@0008@0           @0CCCCGGGGGGGGO@08@GGGGGGGGGGGGG@@           0@0000@@*
+   @@0008@            @@8888888888888@08@8888888888888@@            @8000@@*
+   8@000@@                          G@08@C                          @@000@8*
+   @@008@0                          G@08@C                          0@008@	*
+    @@08@                           G@08@C                           @80@@ *
+    @@0@@                           G@08@C                           @@0@@ *
+    O@0@@                           G@08@C                           @@0@O*
+     @8@8                           G@08@C                           @@@@* 
+     @@@0                           G@08@C                           0@@@*  
+     G@@G                           G@08@C                           O@@C*  
+      @@                            G@08@C                            @@*   
+      CC                            G@@@@C                            CC* 
