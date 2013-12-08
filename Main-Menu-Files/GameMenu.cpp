@@ -67,6 +67,7 @@ void GameMenu::gamePlay()
     //CALL FUNCTION TO ENTER GAME
 
     screen.clear();
+    Sleep(500);
 
 }
 //Function to play sounds
