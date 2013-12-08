@@ -30,6 +30,7 @@ void GameMenu::settings()
     }
     cout<<"Enter 1 to change password or 2 to return to menu"<<endl;
     cin >> choice;
+    //Reset password
     if(choice=="1")
     {
         ResetPassword(user,attempt);
@@ -41,7 +42,8 @@ void GameMenu::settings()
         gameMenu();
     }
 }
-//Game play function
+
+//Game play function. lets user enter game
 
 void GameMenu::gamePlay()
 {
@@ -113,26 +115,27 @@ void GameMenu::gameMenu()
 
     do
     {
+        //Call settings function
         if(choice=="1")
         {
             screen.clear();
             settings();
         }
+        //Call game function
         else if(choice=="2")
         {   screen.clear();
             gamePlay();
         }
+        //call sounds function
         else if (choice=="3")
         {   screen.clear();
             PlaySounds();
         }
+        //exit game call function
         else if (choice=="4")
         {   screen.clear();
             exitGame();
         }
-
-
-
 
     }while(!(choice=="1"||choice=="2"||choice=="3"));
 }
