@@ -1,0 +1,22 @@
+/*
+Authors:Abril Resendiz,Maggie Schmeltekopf,Daniel Holt
+Victoria Robinson,Emily Pierce
+Assignment:Baylor Moonward
+    Data Abstraction: 
+    ship() draws the ship
+    draws() draws the ground
+    ground () control interaction between ship ad ground
+    Game Menu() control menu
+    userInfo() has user information
+    menu() control main menu
+Implementation: The file will open the existing user data file
+    a userInfo array will be  set to store all the information from 
+    the file. The user will be given an option to create a new user 
+    name or login if they are exisiting users. This will be done with
+    the login() function. After the user will be given the option to
+    play the game or  change their password, will be give. Or the
+    user can play the game and view their high schore
+Input: usrname, password and hint. Ant their game option
+Selcetions
+Outpu: The user will have ability to play game.
+/*
